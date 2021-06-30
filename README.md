@@ -1,9 +1,9 @@
 # DL2-T8-Projects
 ## Gesture Controlled Camera
 ### Team members :-
-    1. Ayush Mathur 
-    2. Raghav Vyas
-    3. Mohammad Adil
+    1. Ayush Mathur - https://github.com/ayush532000
+    2. Raghav Vyas - https://github.com/Raghav-V21
+    3. Mohammad Adil - https://github.com/Mohammadadil26
 
 ### Language : Python
 
