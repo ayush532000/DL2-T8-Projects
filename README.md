@@ -13,6 +13,7 @@
     1. Haarcascade file for face detection
     2. Haarcascade file for smile detection
     3. Python source code (main.py)
+    4. Demo Video
     
 ### Libraries used :-
     1. numpy
